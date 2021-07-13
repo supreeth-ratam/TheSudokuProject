@@ -1,4 +1,4 @@
-# TheSudokuPreoject
+# TheSudokuProject
 This is a sudoku solver
 
 Solving sudoku is fun,
