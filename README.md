@@ -1,5 +1,14 @@
 # TheSudokuProject
 This is a sudoku solver
 
-Solving sudoku is fun,
- We wanted to take it to the next level so we made a code which can solve the sudoku and also it also displays the solved sudoku with a good interface using pygame.
+-All ypu need to do to run solve your sudoku is to enter the numbers of board in **input_sudoku board** nad then run the **Sudoku_board** file.
+
+-Make sure to enter 0 in the place of blanks in the board
+
+-**Grid** will convert your input into array which will be passed to the **Sudoku_Solver** file
+
+-***Sudoku_Solver*** will solve the board and passes it to **Sudoku_board**
+
+-Then run the ***SudokuBoard*** file
+
+-That's it, You will your sudoku 
